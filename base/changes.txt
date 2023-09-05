@@ -6,6 +6,10 @@ to completeness or accuracy and it contains some references to files that are
 not part of the distribution.
 ================================================================================
 
+2023-11-12 Joseph Wright  <Joseph.Wright@latex-project.org>
+	* lttemplates.dtx
+	New file to replace loading xtemplate
+
 2024-01-30  Jérôme Laurens  <jerome.laurens@u-bourgogn.fr>
 	* lthooks.dtx:
 	Fix rollback to 2020-10-01.
